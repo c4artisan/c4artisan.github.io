@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,ForoTV
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
